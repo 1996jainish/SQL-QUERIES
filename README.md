@@ -11,3 +11,9 @@ You are given the data of employees along with their salary and department . Wri
 ![HIGEST PAID EMP SOL](https://github.com/user-attachments/assets/a3e40ba9-9f9b-4960-babc-bd01d9144bfe)
 
 ### CASE 2
+NamasteKart an ecommerce company wants to build a very imporant business metrics where they want to track on daily basis how many new and repeat customers are purchasing products from their website. A new customer is defined when he purchased anything for the first time from the website and repeat customer is someone who has done atleast one purchase in the past.
+
+## DATA 
+
+
+## SOLUTION
