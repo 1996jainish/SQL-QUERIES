@@ -41,9 +41,14 @@ solution -
 output - 
 ![Screenshot 2024-08-20 180619](https://github.com/user-attachments/assets/0a039cfe-e4b9-4c06-924c-0695915834dd)
 
+### CASE 05 - Cricket Score Table
+![Screenshot 2024-08-20 202714](https://github.com/user-attachments/assets/67123f24-6dac-4b82-a7b8-c65fc198df1e)
 
+Solution - 
+![Screenshot (71)](https://github.com/user-attachments/assets/cd6b9117-650f-41ef-a7e0-c82575a23484)
 
-
+Output - 
+![Screenshot 2024-08-20 202747](https://github.com/user-attachments/assets/f0280b98-1995-49bb-afca-eb918f626f09)
 
 
 
