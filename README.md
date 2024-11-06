@@ -64,10 +64,10 @@ This way, they can proactively reach out to these customers to gather feedback.
 
 Write an SQL to find list of customers along with their return percent (Round to 2 decimal places), display the output in ascending order of customer name.
 
-https://github.com/1996jainish/SQL-QUERIES/issues/17#issue-2636925253
+![image](https://github.com/user-attachments/assets/acc70eed-81ae-466a-8073-9d0905342e50)
 
 Solution - 
-https://github.com/1996jainish/SQL-QUERIES/issues/18#issue-2636926666
+![image](https://github.com/user-attachments/assets/fbccffde-2c64-43bd-9728-4bc4d3f0b9a7)
 
 
 
