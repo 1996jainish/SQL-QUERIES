@@ -64,31 +64,11 @@ This way, they can proactively reach out to these customers to gather feedback.
 
 Write an SQL to find list of customers along with their return percent (Round to 2 decimal places), display the output in ascending order of customer name.
 
-Table: orders (primary key : order_id)
-+---------------+-------------+
-| COLUMN_NAME   | DATA_TYPE   |
-+---------------+-------------+
-| customer_name | varchar(10) |
-| order_date    | date        |
-| order_id      | int         |
-| sales         | int         |
-+---------------+-------------+
-
-Table: returns (primary key : order_id)
-+-------------+-----------+
-| COLUMN_NAME | DATA_TYPE |
-+-------------+-----------+
-| order_id    | int       |
-| return_date | date      |
-+-------------+-----------+
+https://github.com/1996jainish/SQL-QUERIES/issues/17#issue-2636925253
 
 Solution - 
-SELECT O.customer_name, 
-Round(SUM(CASE WHEN R.return_date IS NULL THEN 0 ELSE 1 END)/COUNT(O.customer_name)*100,2) as return_percen
-FROM orders O
-LEFT JOIN returns R ON R.order_id = O.order_id
-GROUP BY O.customer_name
-HAVING return_percent >= 50
+https://github.com/1996jainish/SQL-QUERIES/issues/18#issue-2636926666
+
 
 
 
