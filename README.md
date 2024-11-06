@@ -55,7 +55,7 @@ Output -
 ![Screenshot 2024-08-20 202747](https://github.com/user-attachments/assets/f0280b98-1995-49bb-afca-eb918f626f09)
 
 
-### SQL Questions with Easy - Medium level Deficulty
+### SQL Questions with Easy - Medium level difficulty
 ### Question 1 
 Namastekart, an e-commerce company, has observed a notable surge in return orders recently. 
 They suspect that a specific group of customers may be responsible for a significant portion of these returns. 
