@@ -84,7 +84,7 @@ Table: returns (primary key : order_id)
 
 Solution - 
 SELECT O.customer_name, 
-Round(SUM(CASE WHEN R.return_date IS NULL THEN 0 ELSE 1 END)/COUNT(O.customer_name)*100,2) as return_percent
+Round(SUM(CASE WHEN R.return_date IS NULL THEN 0 ELSE 1 END)/COUNT(O.customer_name)*100,2) as return_percen
 FROM orders O
 LEFT JOIN returns R ON R.order_id = O.order_id
 GROUP BY O.customer_name
